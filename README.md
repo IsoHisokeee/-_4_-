@@ -1,6 +1,7 @@
 # Сайт элитного апарт-отеля "SKYLINE"
 
 ## ![Version](https://img.shields.io/badge/Version-0.1-yellow)
+## ![License](https://img.shields.io/badge/License-MTP-blue)
 
 ## Краткое описание проекта
 Проект выполнен как курсовая работа для Колледжа Информатики и Программирования, научный руководитель - Варданян Мэри Вардановна.
